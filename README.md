@@ -1,4 +1,4 @@
-###jquery
+### jquery
 
 https://api.jquery.com/
 
